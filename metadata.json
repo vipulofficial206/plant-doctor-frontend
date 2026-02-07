@@ -1,0 +1,5 @@
+{
+  "name": "Plant Doctor AI",
+  "description": "An intelligent web application to help farmers identify plant diseases through image analysis and get expert advice via an integrated chatbot. Upload an image of a plant to get a diagnosis, or ask the chatbot for information on symptoms, causes, prevention, and treatment.",
+  "requestFramePermissions": []
+}
